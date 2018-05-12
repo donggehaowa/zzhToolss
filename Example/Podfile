@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'zzhToolss_Example' do
+  pod 'zzhToolss', :path => '../'
+
+  target 'zzhToolss_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
