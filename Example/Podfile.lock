@@ -1,0 +1,16 @@
+PODS:
+  - zzhToolss (0.1.0)
+
+DEPENDENCIES:
+  - zzhToolss (from `../`)
+
+EXTERNAL SOURCES:
+  zzhToolss:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  zzhToolss: 204845f61ee2d3f2c454e9310723b9b9a60034ac
+
+PODFILE CHECKSUM: c6b789f255b41e90a4a6d99bc5eea099f6206930
+
+COCOAPODS: 1.5.0

@@ -1,0 +1,6 @@
+framework module zzhToolss {
+  umbrella header "zzhToolss-umbrella.h"
+
+  export *
+  module * { export * }
+}
