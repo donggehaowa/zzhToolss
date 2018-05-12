@@ -11,6 +11,7 @@
 
 -(void)printRandom{
     NSLog(@"%ld",random()%12);
+    //
 }
 
 @end
